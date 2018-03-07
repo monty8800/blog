@@ -1,8 +1,7 @@
 ---
 title: Hello World
 tags:
-- 我是标签一
-- 我是标签二
+- hexo
 categories:
 - hexo
 ---
