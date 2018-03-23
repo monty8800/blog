@@ -1,6 +1,7 @@
 ---
 layout: android
 title: Android Studio 3.0开启Lambda表达式
+id: 20180308152026
 date: 2018-03-08 15:20:26
 tags:
 - Android Studio

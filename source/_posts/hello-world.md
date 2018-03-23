@@ -1,5 +1,6 @@
 ---
 title: Hello World
+id: 20180301150000
 tags:
 - Hexo
 categories:
